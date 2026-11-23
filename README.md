@@ -8,8 +8,10 @@
 ​🛠️ Tech & Tools yang Lagi Dipelajari
 
 ​✨ Featured Projects
-​Chapter 17 — Interactive special birthday website.
-​Interactive Scrapbook — Upcoming custom digital scrapbook project.
+​Chapter 1 
+— Interactive special birthday website.
+​Interactive Scrapbook 
+— Upcoming custom digital scrapbook project.
 ​<div align="center">
 <sub>Built with curiosity • <code>lik-pixel</code></sub>
 </div>
