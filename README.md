@@ -1,4 +1,3 @@
-## Haloo semua, aku lagi belajar coding dan buat web! mohon bantuannya yaa
 
 <!--
 **lik-pixel/lik-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
